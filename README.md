@@ -1,18 +1,27 @@
-## Getting Started
+# 🧮 Java GUI Calculator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple and interactive **GUI-based Calculator Application** built using **Java**.  
+This project allows users to perform basic arithmetic operations like **Addition**, **Subtraction**, **Multiplication**, and **Division** through an intuitive graphical interface.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- 🪄 **Graphical User Interface** using Java Swing & AWT  
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division (with divide-by-zero handling)  
+- 🧼 Clear/Reset functionality  
+- ✅ Responsive button layout for easy use
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠 Tech Stack
 
-## Dependency Management
+- **Language:** Java (JDK 8 or above)  
+- **GUI Library:** Swing & AWT  
+- **IDE:** Visual Studio Code  
+- **Version Control:** Git & GitHub
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
